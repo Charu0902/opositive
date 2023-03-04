@@ -142,7 +142,7 @@ export default function deliver() {
           preLoad={"metadata"}
         playsinline ={"true"}
           loop id='mobile-video' poster='./assests/photo-360-700.webp'>
-               <source src="./assets/video-360-700.mp4"  />
+               <source src="./assests/video-360-700.mp4"  />
            </video>
         <video
           muted
@@ -150,7 +150,7 @@ export default function deliver() {
           preLoad={"metadata"}
         playsinline ={"true"}
           loop id='desktop-video' poster='./assests/deliver-banner-desktop.webp'>
-               <source src="./assets/video-1440-680.mp4"  />
+               <source src="./assests/video-1440-680.mp4"  />
            </video> 
         <div className="container-fluid bannerdeliver-innerdiv">
           <div className="row">
