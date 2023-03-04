@@ -197,13 +197,13 @@ Referring domains increased from 96 to 317.
 <br></br>
                  </p>
                 
-                 <img  src="../Assets/results-casestudy.png" className="case-study-content-image img-fluid "/>
+                 <img  src="../assets/results-casestudy.png" className="case-study-content-image img-fluid "/>
                    <br></br>
-                 <img  src="../Assets/domain-casestudy.png" className="case-study-content-image img-fluid "/>
+                 <img  src="../assets/domain-casestudy.png" className="case-study-content-image img-fluid "/>
                   <br></br>
-                 <img  src="../Assets/domainrating-casestudy.png" className="case-study-content-image img-fluid "/>
+                 <img  src="../assets/domainrating-casestudy.png" className="case-study-content-image img-fluid "/>
                    <br></br>
-                 <img  src="../Assets/referringdomains-casestudy.png" className="case-study-content-image img-fluid "/>
+                 <img  src="../assets/referringdomains-casestudy.png" className="case-study-content-image img-fluid "/>
 
            
 

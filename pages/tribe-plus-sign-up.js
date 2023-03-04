@@ -37,8 +37,8 @@ const Tribe = () => {
           autoPlay={"autoplay"}
           preLoad={"metadata"}
         playsinline ={"true"}
-          loop className="studio-video" poster='./assests/Tribe + Thumbnail.webp'>
-               <source src="./assests/Tribe-+.mp4"  />
+          loop className="studio-video" poster='./assests/Tribe Thumbnail.webp'>
+               <source src="./assests/Tribe-plus.mp4"  />
            </video> 
                 </div>
                 <div className="col-md-6 col-12">

@@ -2698,7 +2698,7 @@ ul#navLinkList li.nav-item:hover::after{
   font-size: 24px;
   line-height: 150%;
   letter-spacing: 0.25px;
-  
+  text-align: center;
   color: #ED2939;
   }
   .studio-para{

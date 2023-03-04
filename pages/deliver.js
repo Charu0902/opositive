@@ -142,7 +142,7 @@ export default function deliver() {
           preLoad={"metadata"}
         playsinline ={"true"}
           loop id='mobile-video' poster='./assests/photo-360x700.png'>
-               <source src="./Assets/video 360x700.mp4"  />
+               <source src="./assets/video 360x700.mp4"  />
            </video>
         <video
           muted
@@ -150,7 +150,7 @@ export default function deliver() {
           preLoad={"metadata"}
         playsinline ={"true"}
           loop id='desktop-video' poster='./assests/deliver-banner-desktop.png'>
-               <source src="./Assets/video 1440 x 680.mp4"  />
+               <source src="./assets/video 1440 x 680.mp4"  />
            </video> 
         <div className="container-fluid bannerdeliver-innerdiv">
           <div className="row">
@@ -218,8 +218,8 @@ export default function deliver() {
           autoPlay={"autoplay"}
           preLoad={"metadata"}
         playsinline ={"true"}
-          loop  id='mobile-video' poster='./assests/O+ gif website thumbnail.jpg'>
-               <source src="./assests/O+ gif website.mp4"  />
+          loop  id='mobile-video' poster='./assests/O-gif website thumbnail.jpg'>
+               <source src="./assests/O-gif website.mp4"  />
            </video>
           <video
           muted

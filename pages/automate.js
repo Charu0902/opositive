@@ -17,13 +17,13 @@ export default function Automate() {
                 <meta property="og:url" content="https://opositive.io/automate"/> 
                 <meta property="og:title" content="Automate Your Workflow with O+ | Opositive"/> 
                 <meta property="og:description" content="With Opositive's automation solutions, you can streamline your operations and boost productivity."/> 
-                <meta property="og:image" content="./assests/Automated Page Banner Video thumbnail.webp"/> 
+                <meta property="og:image" content="https://opositive.io/assests/Automated Page Banner Video thumbnail.webp"/> 
 
                 <meta property="twitter:card" content="summary_large_image"/> 
                 <meta property="twitter:url" content="https://opositive.io/automate"/> 
                 <meta property="twitter:title" content="Automate Your Workflow with O+ | Opositive"/> 
                 <meta property="twitter:description" content="With Opositive's automation solutions, you can streamline your operations and boost productivity."/> 
-                <meta property="twitter:image" content=" ./assests/Automated Page Banner Video thumbnail.webp"/> 
+                <meta property="twitter:image" content="https://opositive.io/assests/Automated Page Banner Video thumbnail.webp"/> 
         </Head>
         <section className="banner-automate">
       <video
@@ -57,7 +57,7 @@ export default function Automate() {
                   </div>
                   <div className='col-12 col-md-6'>
                   <h1 className='growth-heading mobile'>Track Your Growth with Studio + </h1>
-                  <img src="./assests/Studio + New.gif" className ="img-fluid studio-img"/>  
+                  <img src="./assests/Studio-New.gif" className ="img-fluid studio-img"/>  
                   </div>
                </div>
             </div>
@@ -67,7 +67,7 @@ export default function Automate() {
                <div className='row'>
                 <div className='col-12 col-md-6'>
                 <h2 className='tribe-heading mobile'>Revolutionize backlinking with Tribe+ </h2>
-                <img src="./assests/Tribe + new.gif" className ="img-fluid tribe-img"/>  
+                <img src="./assests/Tribe-new.gif" className ="img-fluid tribe-img"/>  
 
                   </div>
                   <div className='col-12 col-md-6'>
@@ -101,7 +101,7 @@ export default function Automate() {
           <h4>Featured tools developed for better performance</h4>
           <div className="row tools-suite-row">
              <div className="col-md-3 col-sm-12 tools-col">
-             <img src="./assests/Extract + Red BG-01 1.png" className ="img-fluid"/>  
+             <img src="./assests/Extract-Red BG-01 1.png" className ="img-fluid"/>  
              <h3>
              EXTRACT +
              </h3>
@@ -110,7 +110,7 @@ export default function Automate() {
              </p>
              </div>
              <div className="col-md-3 col-sm-12 tools-col">
-             <img src="./assests/Crawl + Red BG-01 1.png" className ="img-fluid"/>  
+             <img src="./assests/Crawl-Red BG-01 1.png" className ="img-fluid"/>  
                <h3>
                CRAWL +
                </h3>
@@ -119,7 +119,7 @@ export default function Automate() {
                </p>
              </div>
              <div className="col-md-3 col-sm-12 tools-col">
-             <img src="./assests/Live + Red BG-01-01 1.png" className ="img-fluid"/>  
+             <img src="./assests/Live-Red BG-01-01 1.png" className ="img-fluid"/>  
               <h3>
               LIVE+
               </h3>
@@ -128,7 +128,7 @@ export default function Automate() {
               </p>
              </div>
              <div className="col-md-3 col-sm-12 tools-col">
-             <img src="./assests/Caffeine + RED BG-01 1.png" className ="img-fluid"/>  
+             <img src="./assests/Caffeine-RED BG-01 1.png" className ="img-fluid"/>  
                <h3>
                CAFFEINE +
                </h3>
