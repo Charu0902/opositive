@@ -141,7 +141,7 @@ export default function deliver() {
           autoPlay={"autoplay"}
           preLoad={"metadata"}
         playsinline ={"true"}
-          loop id='mobile-video' poster='./assests/photo-360-700.png'>
+          loop id='mobile-video' poster='./assests/photo-360-700.webp'>
                <source src="./assets/video-360-700.mp4"  />
            </video>
         <video
@@ -149,7 +149,7 @@ export default function deliver() {
           autoPlay={"autoplay"}
           preLoad={"metadata"}
         playsinline ={"true"}
-          loop id='desktop-video' poster='./assests/deliver-banner-desktop.png'>
+          loop id='desktop-video' poster='./assests/deliver-banner-desktop.webp'>
                <source src="./assets/video-1440-680.mp4"  />
            </video> 
         <div className="container-fluid bannerdeliver-innerdiv">
