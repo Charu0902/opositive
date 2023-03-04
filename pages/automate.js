@@ -17,13 +17,13 @@ export default function Automate() {
                 <meta property="og:url" content="https://opositive.io/automate"/> 
                 <meta property="og:title" content="Automate Your Workflow with O+ | Opositive"/> 
                 <meta property="og:description" content="With Opositive's automation solutions, you can streamline your operations and boost productivity."/> 
-                <meta property="og:image" content="https://opositive.io/assests/Automated Page Banner Video thumbnail.webp"/> 
+                <meta property="og:image" content="./assests/Automated Page Banner Video thumbnail.webp"/> 
 
                 <meta property="twitter:card" content="summary_large_image"/> 
                 <meta property="twitter:url" content="https://opositive.io/automate"/> 
                 <meta property="twitter:title" content="Automate Your Workflow with O+ | Opositive"/> 
                 <meta property="twitter:description" content="With Opositive's automation solutions, you can streamline your operations and boost productivity."/> 
-                <meta property="twitter:image" content=" https://opositive.io/assests/Automated Page Banner Video thumbnail.webp"/> 
+                <meta property="twitter:image" content=" ./assests/Automated Page Banner Video thumbnail.webp"/> 
         </Head>
         <section className="banner-automate">
       <video
